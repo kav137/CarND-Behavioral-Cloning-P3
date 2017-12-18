@@ -1,0 +1,12 @@
+Train on 18926 samples, validate on 4732 samples
+Epoch 1/5
+- 20s - loss: 0.0211 - val_loss: 0.0107
+Epoch 2/5
+- 18s - loss: 0.0098 - val_loss: 0.0078
+Epoch 3/5
+- 18s - loss: 0.0066 - val_loss: 0.0021
+Epoch 4/5
+- 18s - loss: 0.0013 - val_loss: 9.2001e-04
+Epoch 5/5
+- 19s - loss: 8.4005e-04 - val_loss: 7.3946e-04
+model saved : "./models/Mon Dec 18 02-16-52 2017/model.h5"
